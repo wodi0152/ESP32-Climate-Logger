@@ -1,0 +1,24 @@
+
+# PlatformIO build files
+.pio/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime sensor data
+server/measurements*.csv
+
+# Logs
+*.log
+
+# Private configuration
+.env
+.env.*
+secrets.h
+config_secrets.h
+
+# Windows files
+Thumbs.db
+Desktop.ini
