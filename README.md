@@ -13,6 +13,10 @@ An ESP32-based environmental monitoring system that measures temperature and rel
 - Configuration mode activated by holding a push button for 3 seconds
 - CSV data logging on the Python server
 
+## Getting Started
+
+New to this project? Follow the [Quick Start Guide](QUICK_START.md) to configure the ESP32, connect to Wi-Fi, start the Python server, and verify your first sensor measurements.
+
 ## Hardware
 
 | Component      | Description                     |
