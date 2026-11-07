@@ -82,3 +82,10 @@ Example measurement data is available in `data/sample_measurements.csv`.
 ## Project Status
 
 The hardware prototype, Wi-Fi configuration, HTTP transmission and CSV logging have been tested successfully. Extended offline queue recovery testing is ongoing.
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 wodi0152.
